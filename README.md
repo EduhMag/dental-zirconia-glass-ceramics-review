@@ -233,6 +233,7 @@ Revisar o entendimento atual das cerâmicas vítreas à base de lítio e identif
 ## 📖 Arquivos Adicionais
 
 - [30 Questões de Estudo com Respostas](questoes-estudo.md)
+- [Tabelas Comparativas Detalhadas](tabelas-comparativas.md)
 
 ---
 
@@ -243,3 +244,17 @@ Revisar o entendimento atual das cerâmicas vítreas à base de lítio e identif
 2. Zhang, Y., & Lawn, B. R. (2018). Novel zirconia materials in dentistry. *Journal of Dental Research*, 97(2), 140-147.
 
 3. Zhang, Y., et al. (2023). A critical review of dental lithia-based glass–ceramics. *Journal of Dental Research*, 102(3), 245-253.
+
+---
+
+## 📞 Como Usar Este Repositório
+
+1. **README.md**: Resumos completos dos três estudos
+2. **questoes-estudo.md**: 30 perguntas de múltipla escolha com respostas
+3. **tabelas-comparativas.md**: Dados organizados em tabelas para consulta rápida
+
+Ideal para:
+- Estudantes de odontologia
+- Residentes em prótese dentária
+- Profissionais atualizando conhecimentos
+- Pesquisadores em materiais dentários
